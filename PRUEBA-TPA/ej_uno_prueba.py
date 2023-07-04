@@ -88,3 +88,5 @@ if __name__ == "__main__":
     
     #sys.close(app.exec())
     app.exec()
+
+# Codigo hecho por Alen.
